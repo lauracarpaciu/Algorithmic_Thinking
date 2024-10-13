@@ -1,4 +1,4 @@
-Algorithmic_Thinking
+Algorithmic_Thinking_EDA
 
 We often need to update the dataset and prepare the data for analysis.
 When working with a large set of data to be processed, there is often a requirement to add, delete, search, filter values and remove duplicates values. 
